@@ -1,0 +1,18 @@
+<?<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+	xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0 id="com.pedrosampaio.cenouraapp">
+	<name>Só de Cenoura</name>
+	<description>
+		Menu do Restaurante só de cenoura
+	</description>
+	<author href="http://pedrosampaio.com"
+		email="qualquer@pedrosampaio.com">
+		Pedro Sampaio
+	</author>
+	<icon  src="imagens/icon.png"/>
+		<gap:splash src="imagens/splash.png"/>
+		
+		<preference name="orientation" value="portrait"/>
+		<preference name="fullscreen" value="true"/> 
+		<gap:platform name="android"/> 
+</widget>
