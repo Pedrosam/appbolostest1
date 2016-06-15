@@ -11,7 +11,7 @@
 	</author>
 	<icon  src="imagens/icon.png"/> <!-- imagem do icone -->
 		<gap:splash src="imagens/splash.png"/> <!-- splash screen, é a primeira tela -->
-		<!-- <preference name="orientation" value="portrait"/> --> <!-- modo retrato -->
+		<preference name="orientation" value="landscape"/> <!-- modo paisagem(portrait para modo retrato) -->
 		<preference name="fullscreen" value="true"/> <!-- Modo FullScreen -->
 		<gap:platform name="android"/>  <!-- build apenas no android -->
 </widget>
