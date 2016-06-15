@@ -8,7 +8,7 @@
 	<author href="http://pedrosampaio.com"
 		email="qualquer@pedrosampaio.com">
 	</author>
-	<icon  src=	"imagens/icone-app.png"
+	<icon  src=	"imagens/icone-app.png" />
 		<gap:splash src="splash.png"/>
 		<preference name="orientation" value="portrait"/>
 		<preference name="fullscreen" value="true"/> 
