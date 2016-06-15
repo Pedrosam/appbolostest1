@@ -11,6 +11,6 @@
 	<icon  src=	"imagens/icone-app.png"
 		<gap:splash src="splash.png"/>
 		<preference name="orientation" value="portrait"/> <!-- bloqueia em modo retratil -->
-		<preference name="fullscreen" value="true"/> <!-- Modo fullscreen
+		<preference name="fullscreen" value="true"/> <!-- Modo fullscreen -->
 		<gap:platform name="android"/> <!-- build apenas no android -->
 </widget>
